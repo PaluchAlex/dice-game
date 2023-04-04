@@ -4,6 +4,18 @@
   text-align: center;
 }
 
+.play-btn{
+  color: darkred;
+  background-color: #4ECCA3;
+  font-size: 40px;
+  border-radius: 12px;
+  font-family: 'Lobster', cursive;
+  position: absolute;
+  right: 48%;
+  top: 28%;
+
+}
+
 .dice {
   text-align: center;
   display: inline-block;
