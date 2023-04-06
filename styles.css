@@ -4,6 +4,11 @@
   text-align: center;
 }
 
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: #499367 !important;
+}
+
 .play-btn{
   color: darkred;
   background-color: #4ECCA3;
