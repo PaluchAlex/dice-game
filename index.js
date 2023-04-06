@@ -20,8 +20,8 @@ function playGame() {
         document.querySelectorAll("p")[0].innerHTML = "Player 1";
     } else {
         document.querySelector("h1").textContent = "🚩 Draw! 🚩";
-        document.querySelectorAll("p")[1].innerHTML = "🚩Player 2🚩";
-        document.querySelectorAll("p")[0].innerHTML = "🚩Player 1🚩";
+        document.querySelectorAll("p")[1].innerHTML = "Player 2";
+        document.querySelectorAll("p")[0].innerHTML = "Player 1";
     }
 }
 

@@ -1,3 +1,13 @@
+/* anchor tag css */
+
+a:link, a:active, a:hover, a:visited {
+  color: #fff;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+/* anchor tag css */
+
 .container {
   width: 70%;
   margin: auto;
